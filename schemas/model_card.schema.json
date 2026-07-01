@@ -1,0 +1,16 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "GOWN ModelCard",
+  "type": "object",
+  "required": ["model_id", "weight_hash", "quantization", "context_tokens", "capabilities", "license", "vram_min_gb"],
+  "properties": {
+    "model_id": { "type": "string" },
+    "weight_hash": { "type": "string" },
+    "quantization": { "type": "string" },
+    "context_tokens": { "type": "integer", "minimum": 1 },
+    "capabilities": { "type": "array", "items": { "type": "string" } },
+    "license": { "type": "string" },
+    "vram_min_gb": { "type": "integer", "minimum": 1 }
+  },
+  "additionalProperties": false
+}

@@ -1,0 +1,20 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "GOWN NodeCard",
+  "type": "object",
+  "required": ["node_id", "endpoint", "gpu_name", "vram_gb", "models", "health_score", "trust_level", "privacy_modes", "avg_latency_ms", "cost_units", "signature"],
+  "properties": {
+    "node_id": { "type": "string" },
+    "endpoint": { "type": "string" },
+    "gpu_name": { "type": "string" },
+    "vram_gb": { "type": "integer", "minimum": 1 },
+    "models": { "type": "array", "items": { "type": "string" } },
+    "health_score": { "type": "number", "minimum": 0, "maximum": 1 },
+    "trust_level": { "type": "string" },
+    "privacy_modes": { "type": "array", "items": { "type": "string" } },
+    "avg_latency_ms": { "type": "integer", "minimum": 0 },
+    "cost_units": { "type": "number", "minimum": 0 },
+    "signature": { "type": "string" }
+  },
+  "additionalProperties": false
+}

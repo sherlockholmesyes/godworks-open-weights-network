@@ -1,0 +1,13 @@
+{
+  "node_id": "node_12gb_fast_local",
+  "endpoint": "http://127.0.0.1:8011",
+  "gpu_name": "consumer-12gb-demo",
+  "vram_gb": 12,
+  "models": ["open-coder-7b-q4-demo", "open-general-8b-q4-demo"],
+  "health_score": 0.97,
+  "trust_level": "local",
+  "privacy_modes": ["public", "restricted", "local_only"],
+  "avg_latency_ms": 1700,
+  "cost_units": 0.01,
+  "signature": "sig:node_12gb_fast_local"
+}
