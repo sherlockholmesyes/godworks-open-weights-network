@@ -3,7 +3,7 @@
 GOWN is the inference-first track for open-weight models.
 
 ```text
-GOWN = Godworks Open Weights Network
+OWN = Open Weights Network
 ```
 
 ## Root design choice

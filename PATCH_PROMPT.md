@@ -12,7 +12,7 @@ Do not add unnecessary dependencies.
 Make the smallest useful patch.
 
 Repo:
-https://github.com/sherlockholmesyes/godworks-open-weights-network
+https://github.com/sherlockholmesyes/open-weights-network
 
 Task:
 <paste one task card from TASKS.md>

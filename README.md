@@ -1,9 +1,9 @@
-# Godworks Open Weights Network — Inference Mesh PoC
+# Open Weights Network - Inference Mesh PoC
 
 This repository is the inference-first track for distributed open-weight model serving.
 
 ```text
-GOWN = Godworks Open Weights Network
+OWN = Open Weights Network
 ```
 
 Goal:
@@ -66,7 +66,7 @@ Start with one small task:
 
 ```text
 training track: training/growth of experts
-GOWN: running and routing open-weight inference
+OWN: running and routing open-weight inference
 ```
 
 GOWN should become the practical user-facing layer first. A future training track can later feed new experts/models into it.

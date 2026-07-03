@@ -1,4 +1,4 @@
-"""GOWN PoC: Godworks Open Weights Network.
+"""GOWN PoC: Open Weights Network compatibility package.
 
 Inference-first mesh skeleton:
 InferenceTask -> NodeRegistry -> Router -> gate reports -> InferenceReply.

@@ -26,7 +26,7 @@ real local model backend.
 Repository:
 
 ```text
-https://github.com/sherlockholmesyes/godworks-open-weights-network
+https://github.com/sherlockholmesyes/open-weights-network
 ```
 
 Relevant files:

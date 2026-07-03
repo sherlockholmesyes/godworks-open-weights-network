@@ -1,10 +1,10 @@
 [project]
 name = "gown-poc"
 version = "0.1.0"
-description = "Godworks Open Weights Network inference mesh proof-of-concept"
+description = "Open Weights Network inference mesh proof-of-concept"
 requires-python = ">=3.10"
 readme = "README.md"
-authors = [{ name = "Godworks" }]
+authors = [{ name = "Open Weights Network Contributors" }]
 
 [project.scripts]
 gown-demo = "gown_poc.demo:main"

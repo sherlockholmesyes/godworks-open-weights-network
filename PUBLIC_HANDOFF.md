@@ -1,6 +1,6 @@
 # GOWN Public Handoff Pack
 
-Repository: https://github.com/sherlockholmesyes/godworks-open-weights-network  
+Repository: https://github.com/sherlockholmesyes/open-weights-network  
 Public framing name: **GOWN - local/open-weight inference router PoC**  
 Audience: OSS contributors, local LLM users, backend adapter builders  
 Status: **early runnable PoC, not a product**
@@ -435,7 +435,7 @@ Do not add unnecessary dependencies.
 Make the smallest useful patch.
 
 Repo:
-https://github.com/sherlockholmesyes/godworks-open-weights-network
+https://github.com/sherlockholmesyes/open-weights-network
 
 Task:
 <PASTE ONE TASK CARD HERE>
