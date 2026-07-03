@@ -53,6 +53,15 @@ make test
 
 The demo is stdlib-only. It builds a few mock nodes, rejects nodes that are unhealthy, incompatible, too weak, or privacy-ineligible, and selects an appropriate 12GB-friendly inference node.
 
+## Want to help?
+
+Start with one small task:
+
+- `HANDOFF.md` explains the contribution rules.
+- `TASKS.md` lists small task cards that can be claimed from a Reddit thread.
+- `PATCH_PROMPT.md` is a copy-paste prompt for AI-assisted patching.
+- `CONTRIBUTING.md` explains PR expectations.
+
 ## Difference from training track
 
 ```text
