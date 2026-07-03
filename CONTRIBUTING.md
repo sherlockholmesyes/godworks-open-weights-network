@@ -6,7 +6,6 @@ test-backed patches.
 ## Before opening a PR
 
 - Pick one task from `TASKS.md`, or open an issue for a similarly small task.
-- Use `CONTRIBUTOR_RIGOR.md` to keep the patch narrow and reviewable.
 - Keep the existing demo working.
 - Prefer the Python standard library.
 - Add or update tests when behavior changes.
